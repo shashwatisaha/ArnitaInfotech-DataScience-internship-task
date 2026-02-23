@@ -1,0 +1,23 @@
+Title:
+Exploratory Data Analysis and Visualization of Online Retail Transactions
+
+Problem Statement:
+The objective of this project is to perform Exploratory Data Analysis (EDA) on a large-scale online retail transaction dataset to uncover customer purchasing behavior, sales trends, and product performance. The analysis will help identify patterns such as best-selling products, customer segmentation insights, and revenue trends using data cleaning, labeling, and visualization techniques.
+
+Dataset Used:
+Online Retail Dataset 
+Link: https://archive.ics.uci.edu/dataset/352/online+retail
+
+Keywords: Business, Finance & E-Commerce
+
+What it is: Transaction data for a UK-based online store.
+Great for: Market basket analysis, clustering, RFM segmentation.
+
+
+T3 Perform Cleaning and Labelling of the data for Task 2
+
+
+T4 Upload Complete code with visualization graphs Task 3
+
+
+T5 GitHub Link (Create a GitHub Repository for Project and save it) Eg: ArnitaInfotech_DataSci_task
